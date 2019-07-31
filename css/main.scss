@@ -1,0 +1,63 @@
+body {
+    font-family: 'Lato',
+        sans-serif;
+}
+
+header {
+    // background: url('https://cdn.shopify.com/s/files/1/1561/4309/t/5/assets/home-slider-slide-2.jpg?92');
+    height: 100vh;
+    overflow: hidden;
+}
+
+.product-section {
+    padding: 80px 0;
+}
+
+.product__title {
+    font-size: 19px;
+}
+
+.product__title--item {
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 15px;
+    letter-spacing: 1px;
+}
+
+.video-section {
+    padding: 80px 0;
+
+}
+
+.video__title {
+    font-size: 19px;
+}
+
+.video__p {
+    font-size: 14px;
+}
+
+.shop-section {
+    background: #FBF0F2;
+    padding: 50px 0;
+}
+
+.shop__title {
+    font-size: 19px;
+    text-transform: uppercase;
+}
+
+footer {
+    padding: 40px 0;
+    margin-bottom: 40px;
+}
+
+.footer__title {
+    margin-bottom: 20px;
+    font-size: 15px;
+}
+
+.list-link {
+    color: #222;
+    font-size: 13px;
+}
